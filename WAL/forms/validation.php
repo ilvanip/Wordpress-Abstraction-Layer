@@ -38,7 +38,7 @@ function validationFilter($result,$tag)
 			//So do nothing.
 			break;
 		/*
-		Repeat for every tag in every form only if and only if
+		Repeat for every tag in every form if and only if
 			that particular tag needs validation.
 		*/
 	}
