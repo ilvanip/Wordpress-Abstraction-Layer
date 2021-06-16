@@ -17,7 +17,6 @@ Require_once the appropriate files as you need.
 require_once 'common-functions.php';
 //Scripts and styles.
 require_once 'CSS-JS.php';
-
 /*
 Require_once other .php files here.
 .
