@@ -27,7 +27,7 @@
 |bootstrap.php|The PHP file that includes other PHP files and serves as an entry point into the 'WAL/' directory. If you want to include any PHP file from this directory, add it here.|
 |common-functions.php|Common functions and/or variables used in the other function files come here.|
 |CSS-JS.php|WordPress functions to link scripts and stylesheets to your pages.|
-|forms/|WordPress functions for form handling (currently for the Contact Form 7 Plugin).|
+|forms/|WordPress form plugin functions for form handling (currently for the Contact Form 7 Plugin).|
 |ajax/|WordPress functions for AJAX handling (requires jQuery to be present).|
 
 - ### Navigating the 'WAL/forms' directory:
@@ -36,7 +36,6 @@
 |database-actions.php|Plugin code to handle logging of form data into the database.|
 |pagination.php|Plugin code to handle population of form fields from arrays or the database.|
 |validation.php|Plugin code to handle validation of form fields.|
-|forms/|WordPress functions for form handling (currently for the Contact Form 7 Plugin).|
 
 - ### Navigating the 'WAL/ajax' directory:
 |File/Directory|Purpose|
